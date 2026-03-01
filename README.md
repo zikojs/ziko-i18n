@@ -22,7 +22,7 @@ npm i ziko-i18n
 ## Usage
 
 ```js
-import { tags } from 'ziko/ui'
+import { tags } from 'ziko/dom'
 import {createI18NProvider, createI18NProvider} from 'ziko-i18n'
 import locals from './locals.json'
 

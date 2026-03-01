@@ -3,7 +3,7 @@ import {
   createI18nProvider,
   useTranslation
 } from 'ziko-i18n';
-import {tags} from 'ziko/ui'
+import {tags} from 'ziko/dom'
 import locals from './locals.json'
 
 createI18nProvider('en', locals)
